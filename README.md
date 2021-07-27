@@ -7,12 +7,12 @@ We (researchers at Carnegie Mellon University) are conducting a study to better 
 
 ***To participate in the study, please:*** 
 contact Sara Kingsley <skingsle@cs.cmu.edu> to schedule an interview _ or_ take the screening survey (linked to below). 
-- The survey takes approximately 5 minutes to complete. 
+- The screening survey takes approximately 5 minutes to complete. 
 - Your personal, contact information, and survey responses will be kept confidential. 
 
 ### Interview Study
 During the interview, we will ask you some questions about your experiences creating content for YouTube and about algorithm bias. 
-- No computer equipment or computer science knowledge is required to participate. 
+- No computer science knowledge is required to participate. 
 - At the start of the interview, we may ask you to complete an online survey form. 
 - The interview (including survey form) takes approximately 1 hour to complete.
 - Participants will receive ***$30 Amazon gift card*** for their time. 
