@@ -29,11 +29,7 @@ Interested? Please email Sara Kingsley at skingsle@cs.cmu.edu and we will contac
 
 Please take the screening survey (at the link below) and provide your contact information to schedule an interview with a member of our research team. The screening survey takes approximately no more than 5 minutes to complete. 
 
-```markdown
-
-# Screening Survey [Link](https://www.surveymonkey.com/r/NRHXKJ3)
-
-```
+***Screening Survey*** https://www.surveymonkey.com/r/NRHXKJ3
 
 ###  Interview Study ($30 compensation)
 Please email Sara Kingsley at skingsle@cs.cmu.edu and we will contact you to schedule an interview if you are eligible to participate.
