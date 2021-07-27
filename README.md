@@ -41,6 +41,8 @@ Please email Sara Kingsley at skingsle@cs.cmu.edu and we will contact you to sch
 ###  Funding
 This study is funded by the ***National Science Foundation*** (Award Abstract # 2040942): https://nsf.gov/awardsearch/showAward?AWD_ID=2040942&HistoricalAwards=false 
 
-### Support or Contact
+### Right to Ask Questions & Contact Information
+If you have any questions about this study, you should feel free to ask them by contacting the Principal Investigator now at ***Sara Kingsley, PhD student, Human-Computer Interaction Institute (HCII), Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA, USA: skingsle@cs.cmu.edu.*** If you have questions later, desire additional information, or wish to withdraw your participation please contact the Principal Investigator by mail, phone or e-mail in accordance with the contact information listed above.  
+ 
+If you have questions pertaining to your rights as a research participant; or to report concerns to this study, you should contact the Office of Research integrity and Compliance at Carnegie Mellon University.  Email: irb-review@andrew.cmu.edu . Phone: 412-268-1901 or 412-268-5460.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
