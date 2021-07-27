@@ -5,7 +5,7 @@ Help us understand algorithmic bias against content creators!
 We (researchers at Carnegie Mellon University) are conducting a study to better understand how people who create YouTube content research and report algorithmic discrimination and/or bias. 
 
 ***To participate in the study, please:*** 
-Contact Sara Kingsley <skingsle@cs.cmu.edu> to schedule an interview _ or_ take the screening survey (linked to below). Provide your contact information at the end of screening survey 
+contact Sara Kingsley <skingsle@cs.cmu.edu> to schedule an interview _ or_ take the screening survey (linked to below). 
 - The survey takes approximately 5 minutes to complete. 
 - Your personal, contact information, and survey responses will be kept confidential. 
 
@@ -36,6 +36,9 @@ Please take the screening survey (at the link below) and provide your contact in
 
 ###  Interview Study ($30 compensation)
 Please email Sara Kingsley at skingsle@cs.cmu.edu and we will contact you to schedule an interview if you are eligible to participate.
+
+###  Funding
+This study is funded by the ***National Science Foundation*** (Award Abstract # 2040942): https://nsf.gov/awardsearch/showAward?AWD_ID=2040942&HistoricalAwards=false 
 
 ### Support or Contact
 
