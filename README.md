@@ -1,36 +1,41 @@
-## Welcome to GitHub Pages
+## YouTube Algorithm Audit Study
 
-You can use the [editor on GitHub](https://github.com/aiopportunitylab/youtube-study/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Help us understand algorithmic bias against content creators!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We (researchers at Carnegie Mellon University) are conducting a study to better understand how people who create YouTube content research and report algorithmic discrimination and/or bias. 
 
-### Markdown
+***To participate in the study, please:*** 
+Contact Sara Kingsley <skingsle@cs.cmu.edu> to schedule an interview _ or_ take the screening survey (linked to below). Provide your contact information at the end of screening survey 
+- The survey takes approximately 5 minutes to complete. 
+- Your personal, contact information, and survey responses will be kept confidential. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Interview Study
+During the interview, we will ask you some questions about your experiences creating content for YouTube and about algorithm bias. 
+- No computer equipment or computer science knowledge is required to participate. 
+- At the start of the interview, we may ask you to complete an online survey form. 
+- The interview (including survey form) takes approximately 1 hour to complete.
+- Participants will receive ***$30 Amazon gift card*** for their time. 
+
+Your participation is voluntary and the information you provide will be stored securely. 
+
+***Eligibility:***
+1. You must be 18 years or older 
+2. You must be a current/former content creator for a digital platform
+
+Interested? Please email Sara Kingsley at skingsle@cs.cmu.edu and we will contact you to schedule an interview if you are eligible to participate.
+
+### Screening Survey
+
+Please take the screening survey (at the link below) and provide your contact information to schedule an interview with a member of our research team. The screening survey takes approximately no more than 5 minutes to complete. 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Screening Survey [Link](url)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aiopportunitylab/youtube-study/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+###  Interview Study ($30 compensation)
+Please email Sara Kingsley at skingsle@cs.cmu.edu and we will contact you to schedule an interview if you are eligible to participate.
 
 ### Support or Contact
 
