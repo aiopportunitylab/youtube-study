@@ -1,5 +1,6 @@
 ## YouTube Algorithm Audit Study
 
+# RESEARCH PARTICIPANTS NEEDED!
 Help us understand algorithmic bias against content creators!
 
 We (researchers at Carnegie Mellon University) are conducting a study to better understand how people who create YouTube content research and report algorithmic discrimination and/or bias. 
